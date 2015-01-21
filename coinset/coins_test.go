@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
-	"github.com/btcsuite/btcwire"
-	"github.com/btcsuite/fastsha256"
+	"github.com/monetas/btcutil"
+	"github.com/monetas/btcutil/coinset"
+	"github.com/monetas/btcwire"
+	"github.com/monetas/fastsha256"
 )
 
 type TestCoin struct {

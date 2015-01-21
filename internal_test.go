@@ -14,8 +14,8 @@ package btcutil
 import (
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/btcsuite/btcec"
-	"github.com/btcsuite/btcutil/base58"
+	"github.com/monetas/btcec"
+	"github.com/monetas/btcutil/base58"
 )
 
 // SetBlockBytes sets the internal serialized block byte buffer to the passed
